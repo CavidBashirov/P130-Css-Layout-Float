@@ -1,0 +1,45 @@
+/* #education .types .item h2{
+    
+} */
+
+
+.item1 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+
+
+}
+
+.item2 {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+
+
+}
+
+/* .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+   */
+
+.item3 {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+
+
+
+
+}
+
+.row {
+    width: 600px;
+    height: 600px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}

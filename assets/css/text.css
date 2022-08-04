@@ -1,0 +1,35 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+body{
+    background-color: rgb(224, 202, 172);
+}
+
+.banner{
+    background-color:  rgb(238, 147, 82);
+    height: 250px;
+    text-align: center;
+}
+
+h1{
+    line-height: 250px;
+}
+
+li{
+    display: inline;
+    padding: 25px;
+}
+
+.navbar{
+text-align: center;
+margin-top: 10px;
+}
+
+a{
+text-decoration: none;
+color: rgb(0, 56, 10);
+font-size: 25px;
+}
+

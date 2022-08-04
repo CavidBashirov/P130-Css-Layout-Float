@@ -1,0 +1,48 @@
+body{
+    background-color: bisque;
+}
+
+.fonts{
+    width: 500px;
+    height: 700px;
+    
+    margin-left: 521px;
+    background-color: white;
+    padding: 10px;
+    box-shadow: 15px 15px 15px #888888;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.first{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Noto Sans JP', sans-serif;
+    transform: rotate(-20deg);
+}
+
+.second{
+    font-family: 'Noto Sans TC', sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.third{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.fourth{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.fifth{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.sixth{
+    text-align: center;
+    margin-top: 50px;
+}
